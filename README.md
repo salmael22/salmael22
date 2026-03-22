@@ -11,8 +11,12 @@
 ## 👩‍💻 Qui suis-je ?
 
 
-> Je construis des applications web complètes, robustes et maintenables.
-> Mon objectif : livrer de la valeur réelle à chaque projet.
+> Développeuse full-stack passionnée par la création d'applications web complètes, du backend robuste jusqu'à l'interface utilisateur.
+
+- 🌱 J'approfondis mes connaissances en **architecture logicielle** et **APIs REST**
+- 💡 J'aime concevoir des interfaces modernes et élégantes
+- 📍 Casablanca, Maroc
+
 
 ---
 
@@ -34,7 +38,14 @@
 ![Twig](https://img.shields.io/badge/Twig-203a43?style=for-the-badge&logo=symfony&logoColor=white)
 
 ### Base de données & Outils
+### Base de données & Outils
 ![MySQL](https://img.shields.io/badge/MySQL-2c5364?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-203a43?style=for-the-badge&logo=mongodb&logoColor=a8d8b9)
+![Neo4j](https://img.shields.io/badge/Neo4j-2c5364?style=for-the-badge&logo=neo4j&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-0f2027?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-203a43?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-2c5364?style=for-the-badge&logo=firebase&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-203a43?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-2c5364?style=for-the-badge&logo=xampp&logoColor=white)
